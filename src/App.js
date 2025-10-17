@@ -1,7 +1,7 @@
 'use client'
 import { useKeycloak } from "@react-keycloak/web";
 import { useNavigate, Routes, Route } from "react-router-dom";
-import Tajne from "./Tajne"; // <- zakładam, że masz taki komponent
+import Tajne from "./Tajne";
 import "./App.css";
 
 function App() {
